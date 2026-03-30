@@ -1,16 +1,17 @@
 
 # Mobile Robotics
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=CRB20/Mobile-Robtics)
 This repository contains a structured, hands-on course on mobile robotics using MATLAB Live Scripts. It is designed to help you build a complete understanding of how autonomous robots move, sense, localize, and navigate in real environments.
 
 The material is organized as a sequence of interactive scripts. Each script combines short theory sections with executable MATLAB code, so you can learn concepts and test them step by step.
 ---
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=CRB20/Mobile-Robtics)
+
 
 ## ▶️ Start Here
 
-The course begins from:
+The course begins from: [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=CRB20/Mobile-Robtics&file=Introduction/Introduction.mlx)
 
 ```
 introduction/introduction.mlx
