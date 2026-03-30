@@ -26,7 +26,7 @@ Start from this file and follow the sequence of chapters. Each chapter builds on
 This course follows a clear progression:
 
 * Motion → how robots move
-* Modeling → how motion is described mathematically
+* Kinematics → how motion is described mathematically [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=CRB20/Mobile-Robtics&file=Kinematics/kinematics.mlx)
 * Perception → how robots sense the world
 * Localization → how robots estimate their state
 * Planning → how robots make decisions and navigate
