@@ -29,9 +29,9 @@ This course follows a clear progression:
 * Kinematics → how motion is described mathematically [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=CRB20/Mobile-Robtics&file=Kinematics/kinematics.mlx)
 * Perception → how robots sense the world [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=CRB20/Mobile-Robtics&file=Perception/perception.mlx)
 * Localization → how robots estimate their state [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=CRB20/Mobile-Robtics&file=Localization/localiztion.mlx)
-* Planning → how robots make decisions and navigate 
+* Planning → how robots make decisions and navigate [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=CRB20/Mobile-Robtics&file=Planning/planning.mlx)
 
-The structure closely follows the teaching flow described in the course scripts.
+
 
 
 
@@ -87,14 +87,14 @@ These simulations demonstrate realistic robot behavior and help bridge theory wi
 
 ---
 
-## 🎓 Course Origin
+## 🎓 Course Developers
 
 This course was developed by:
 
 * Dr. Pritam Ojha
 * Dr. Atul Thakur
 
-It closely follows the lecture material from the **Mobile Robotics** course taught at IIT Patna.
+The course was funded by Mathworks. It closely follows the lecture material from the **Mobile Robotics** course taught at IIT Patna.
 
 ---
 
