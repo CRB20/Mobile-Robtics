@@ -27,7 +27,7 @@ This course follows a clear progression:
 
 * Locomotion → how robots move [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=CRB20/Mobile-Robtics&file=https://github.com/CRB20/Mobile-Robtics/blob/main/Locomotion/Locomotion.mlx)
 * Kinematics → how motion is described mathematically [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=CRB20/Mobile-Robtics&file=Kinematics/kinematics.mlx)
-* Perception → how robots sense the world
+* Perception → how robots sense the world [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=CRB20/Mobile-Robtics&file=Perception/perception.mlx)
 * Localization → how robots estimate their state
 * Planning → how robots make decisions and navigate
 
